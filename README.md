@@ -1,7 +1,7 @@
 # Projeto: Pacote de Processamento de Imagens
 ## Autor: Karina Kato
 ### Aula: Coding Lab PRO - Digital Innovation One
-[(clique aqui para ver o meu perfil na plataforma)](https://web.digitalinnovation.one/users/henrique_map)
+[(clique aqui para ver o meu perfil na plataforma)](https://www.dio.me/users/jhonathanoliveiramarinho)
 #### Tecnologia: Python
 #### Data: 22/08/2020
 -----------------------------------------
